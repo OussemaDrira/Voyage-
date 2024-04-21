@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
     '/gallerie': (context) =>  GalleriePage(),
     '/metio': (context) => const metio(),
     '/parametre': (context) => const parametre(),
-    '/pays': (context) => const pays(),
+    '/pays': (context) =>  pays(),
   };
 
 

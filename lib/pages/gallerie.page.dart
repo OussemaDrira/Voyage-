@@ -8,8 +8,7 @@ import 'package:voyage1/pages/gallerie-details.page.dart';
 
 class GalleriePage extends StatelessWidget {
   late SharedPreferences prefs;
-  TextEditingController textGallerie =
-  TextEditingController(); // Changed variable name
+  TextEditingController textGallerie = TextEditingController(); // Changed variable name
   @override
   Widget build(BuildContext context) {
     return Scaffold(
